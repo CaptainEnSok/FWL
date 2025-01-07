@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiveWordLetters", "FiveWordLetters\FiveWordLetters.csproj", "{4F38973D-9AF9-4769-8BF0-92EAA8A990FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F38973D-9AF9-4769-8BF0-92EAA8A990FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F38973D-9AF9-4769-8BF0-92EAA8A990FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F38973D-9AF9-4769-8BF0-92EAA8A990FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F38973D-9AF9-4769-8BF0-92EAA8A990FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
